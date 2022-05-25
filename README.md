@@ -6,13 +6,13 @@
 # Setup
 
 1. Change library name in below files.
-    - `package.json`
+   - `package.json`
       - name
       - bin
       - homepage
       - repository
       - bugs
-    - `README.md`
+   - `README.md`
       - title
       - badge of github actions
 
